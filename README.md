@@ -17,7 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Blog-preview-card/)
+- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Stats-preview-card-component/)
 
 ### Used
 
