@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![image](https://github.com/Mohak-Gogia/Blog-preview-card/assets/91110127/a18fdfc4-438c-419d-814e-0f637241438d)
+![image](https://github.com/Mohak-Gogia/Stats-preview-card-component/assets/91110127/0df94c89-2b4c-4f0f-aa92-a24add593281)
 
 ### Links
 
